@@ -19,8 +19,8 @@ import java.util.Collections;
 
 public class Application {
 
-    public static final int WINDOW_WIDTH = 1280;
-    public static final int WINDOW_HEIGHT = 1024;
+    public static final int WINDOW_WIDTH = 1920;
+    public static final int WINDOW_HEIGHT = 1080;
 
     public static final double NODE_RADIUS = 15;
     public static final int NODE_COUNT = 80;
